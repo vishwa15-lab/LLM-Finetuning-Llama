@@ -1,4 +1,5 @@
 # LLM Fine-tuning with Llama
+(https://colab.research.google.com/drive/1K0gmWmA4nDHfjOp5ZNtmTkDk0dBsuOKU?usp=sharing)
 
 Fine-tuning Llama using LoRA/PEFT for domain-specific tasks.
 
@@ -9,6 +10,3 @@ Fine-tuning Llama using LoRA/PEFT for domain-specific tasks.
 
 ## Tech Stack
 Llama · LoRA · PEFT · HuggingFace · PyTorch · CUDA
-
-Finetuning Llama on Alpaca Dataset link
-(https://colab.research.google.com/drive/1K0gmWmA4nDHfjOp5ZNtmTkDk0dBsuOKU?usp=sharing)
